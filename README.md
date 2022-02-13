@@ -11,7 +11,7 @@ I am Front-end developer.
 
 #### IDE
 ![](https://img.shields.io/badge/WebStorm-Editor-informational?style=flat-square&logo=webstorm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VisualStudioCode-Editor-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visual-Studio-Code-Editor-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
 #### Front-end
 ![](https://img.shields.io/badge/React-Framework-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
@@ -21,6 +21,7 @@ I am Front-end developer.
 ![](https://img.shields.io/badge/LESS-Dialect-informational?style=flat-square&logo=less&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SASS-Dialect-informational?style=flat-square&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ant_Design-UI_Framework-informational?style=flat-square&logo=antdesign&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Material_UI-UI_Framework-informational?style=flat-square&logo=antdesign&logoColor=white&color=2bbc8a)
 
 #### Back-end
 ![](https://img.shields.io/badge/Strapi-CRM-informational?style=flat-square&logo=strapi&logoColor=white&color=2bbc8a)
