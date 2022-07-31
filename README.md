@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-## I am Front-end developer
+## I'm Front-end developer
 
 ### My tech stack and toolset
 
