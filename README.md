@@ -1,29 +1,46 @@
-# Hi there 👋 
+# Hi there! 👋 I'm Zhanna
 
-## I'm Front-end developer
+## About Me
 
-### My tech stack and toolset
+I am an innovative and creative Front-End Developer with a passion for crafting visually appealing and user-friendly web applications. With 2 years of hands-on experience, I specialize in utilizing cutting-edge technologies and frameworks to deliver efficient and effective solutions.
 
-#### Languages
+## Technical Skills
 
-![](https://img.shields.io/badge/JavaScript-Language-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TypeScript-Dialect-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
+- **Front-End Technologies:**
+  - Angular
+  - React
+  - TypeScript
+  - JavaScript
+  - HTML5
+  - CSS3
+  - Flexbox
+  - Grid
 
-#### Front-end
-![](https://img.shields.io/badge/React-Framework-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
+- **UI Libraries/Frameworks:**
+  - Material UI
+  - Ant Design
+  - Nebular
+  - styled-components
 
-![](https://img.shields.io/badge/HTML-Language-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-Language-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/LESS-Dialect-informational?style=flat-square&logo=less&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SASS-Dialect-informational?style=flat-square&logo=sass&logoColor=white&color=2bbc8a)
+- **Web Design Techniques:**
+  - Responsive Web Design (RWD)
+  - Progressive Web App (PWA)
 
-![](https://img.shields.io/badge/Ant_Design-UI_Framework-informational?style=flat-square&logo=antdesign&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Material_UI-UI_Framework-informational?style=flat-square&logo=antdesign&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Styled_Components-UI_Framework-informational?style=flat-square&logo=antdesign&logoColor=white&color=2bbc8a)
+- **Data Handling:**
+  - RxJS
+  - Redux
+  - GraphQL
+  - REST
+  - Axios
 
-#### Back-end
-![](https://img.shields.io/badge/Strapi-CRM-informational?style=flat-square&logo=strapi&logoColor=white&color=2bbc8a)
+- **Content Management Systems (CMS):**
+  - Strapi
 
-#### IDE
-![](https://img.shields.io/badge/WebStorm-Editor-informational?style=flat-square&logo=webstorm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Visual_Studio_Code-Editor-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+- **Design Tools:**
+  - Figma
+
+## Let's Connect!
+
+Feel free to reach out to me for collaboration or discussions on projects. Connect with me on [LinkedIn](www.linkedin.com/in/zhannapopenko).
+
+Happy coding! 🚀
