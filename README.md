@@ -6,38 +6,17 @@ I am an innovative and creative Front-End Developer with a passion for crafting 
 
 ## Technical Skills
 
-- **Front-End Technologies:**
-  - Angular
-  - React
-  - TypeScript
-  - JavaScript
-  - HTML5
-  - CSS3
-  - Flexbox
-  - Grid
+- *Front-End Technologies:*  **Angular, React, TypeScript, JavaScript, HTML5, CSS3, Flexbox, Grid**
 
-- **UI Libraries/Frameworks:**
-  - Material UI
-  - Ant Design
-  - Nebular
-  - styled-components
+- *UI Libraries/Frameworks:*  **Material UI, Ant Design, Nebular, styled-components**
 
-- **Web Design Techniques:**
-  - Responsive Web Design (RWD)
-  - Progressive Web App (PWA)
+- *Web Design Techniques:*  **Responsive Web Design (RWD), Progressive Web App (PWA)**
 
-- **Data Handling:**
-  - RxJS
-  - Redux
-  - GraphQL
-  - REST
-  - Axios
+- *Data Handling:*  **RxJS, Redux, GraphQL, REST, Axios**
 
-- **Content Management Systems (CMS):**
-  - Strapi
+- *CMS:*  **Strapi**
 
-- **Design Tools:**
-  - Figma
+- *Design Tools:*  **Figma**
 
 ## Let's Connect!
 
