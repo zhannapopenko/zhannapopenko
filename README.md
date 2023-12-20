@@ -20,6 +20,6 @@ I am a Front-End Developer with a passion for crafting visually appealing and us
 
 ## Let's Connect!
 
-Feel free to reach out to me for collaboration or discussions on projects. Connect with me on [LinkedIn](www.linkedin.com/in/zhannapopenko).
+Feel free to reach out to me for collaboration or discussions on projects. Connect with me on [LinkedIn](https://www.linkedin.com/in/zhannapopenko/).
 
 Happy coding! 🚀
