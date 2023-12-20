@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an innovative and creative Front-End Developer with a passion for crafting visually appealing and user-friendly web applications. With 2 years of hands-on experience, I specialize in utilizing cutting-edge technologies and frameworks to deliver efficient and effective solutions.
+I am a Front-End Developer with a passion for crafting visually appealing and user-friendly web applications. With 2 years of hands-on experience, I specialize in utilizing cutting-edge technologies and frameworks to deliver efficient and effective solutions.
 
 ## Technical Skills
 
